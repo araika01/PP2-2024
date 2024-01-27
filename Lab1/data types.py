@@ -35,7 +35,7 @@ print(type(x))
 dict
 
 #ex7
-x = {"name" : "John", "age" : 36}
+x = True
 print(type(x))
 
 bool
